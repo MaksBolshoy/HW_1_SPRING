@@ -1,2 +1,4 @@
-package org.example;public class Gson {
+package org.example;
+
+public class Gson {
 }
